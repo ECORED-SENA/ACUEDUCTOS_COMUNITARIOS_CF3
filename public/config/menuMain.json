@@ -1,0 +1,52 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Gestion_documental_en_la_organizacion",
+    "title": "1. Gestión documental en la organización",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Gestion_documental_en_la_organizacion",
+        "title": "1.1. Elaboración y presentación de informes",
+        "anchor": "11"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Gestion_documental_en_la_organizacion",
+        "title": "1.2. Reconocimiento del Sistema Único de Información - SUI de servicios públicos domiciliarios",
+        "anchor": "12"
+      }    
+    ]   
+  },    
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Planeacion_seguimiento_y_comunicacion_en_la_organizacion",
+    "title": "2. Planeación, seguimiento y comunicación en la organización",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/2-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Planeacion_seguimiento_y_comunicacion_en_la_organizacion",
+        "title": "2.1. Planes de trabajo en la organización",
+        "anchor": "21"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Planeacion_seguimiento_y_comunicacion_en_la_organizacion",
+        "title": "2.2. Seguimiento, monitoreo y canales de comunicación en la organización",
+        "anchor": "22"
+      }  
+    ]  
+  }
+]
